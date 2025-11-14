@@ -1,2 +1,4 @@
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
 # LinkedIn-Snapshot-Archive-Deleted-linkedin-Posts-protocols-Account-Suppression-June-1-Capture-
 This repo contains LinkedIn post screenshots captured June 1, 2025. Metadata shows modified date as capture date. Posts display “1w” or “2w” indicators, proving original publish dates of mid-May 2025. Used to prove account deletion, authorship, and protocol disclosure timeline.
